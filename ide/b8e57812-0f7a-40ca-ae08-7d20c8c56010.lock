@@ -1,0 +1,15 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-373a515c-ac1c-41bc-bc79-e699fd4490c4.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce 8672a2f6-cfdc-43fd-88c4-750303a3ef8d"
+  },
+  "pid": 5396,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1791222541056,
+  "workspaceFolders": [
+    "c:\\Users\\pc\\.copilot",
+    "c:\\Users\\pc\\Saved Games"
+  ],
+  "isTrusted": true
+}
